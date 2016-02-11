@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Zodiase/meteor-function-bind.svg?branch=master)](https://travis-ci.org/Zodiase/meteor-function-bind)
 Function.prototype.bind Polyfill for Meteor
 ===========================================
 
